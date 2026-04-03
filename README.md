@@ -27,7 +27,7 @@
 python wlan_decoder.py
 
 
-🐧 **Linux Desktop**
+🐧 Linux Desktop
 
 # Install nmcli if missing:
 sudo apt install network-manager   # Debian/Ubuntu
@@ -40,7 +40,7 @@ sudo python3 wlan_decoder.py
 python3 wlan_decoder.py
 
 
-🤖 **Android Termux**
+🤖 Android Termux
 
 # One-time setup:
 pkg update && pkg install python termux-api
